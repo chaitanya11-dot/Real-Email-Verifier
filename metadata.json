@@ -1,0 +1,5 @@
+
+{
+  "name": "Real Email Verifier",
+  "description": "A sleek and modern web application that verifies the existence of an email address in real-time using an external API. It provides instant feedback on whether an email is deliverable, risky, or invalid."
+}
