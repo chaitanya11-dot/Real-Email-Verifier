@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react';
 import { ValidationStatus, type ValidationResult } from './types';
-import { validateEmail } from './services/emailValidator';
+import { validateEmail } from "./services/emailValidator.ts";
 import { ResultCard } from './components/ResultCard';
 import { SpinnerIcon } from './components/icons';
 
